@@ -1,5 +1,0 @@
-Link - https://scipy.github.io/old-wiki/pages/Numpy_Example_List.html#randn.28.29
-
-Cant finish this one so keeping the link here so i can access it any time
-
-(Its tooooo big)
